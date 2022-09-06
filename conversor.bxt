@@ -1,0 +1,14 @@
+#Armazenar um número entre 0 até 255 
+número = 120
+
+#subtraia por 128, se o resultado da operação for 0 ou superior então o primeiro bit é 1
+
+if (numero - 128  >=0);
+    bit1 = 1
+    numero = numero - 128
+else:
+    bit1= 0
+
+
+print(numero)
+print(bit1)
