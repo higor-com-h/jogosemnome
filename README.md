@@ -23,10 +23,10 @@ TN +20 vida e +2 dano
 Armas serão usadas na para luta com TN que ocorrerá na porta de saída (caso aja luta)
 começa com 2 vidas
 
-HISTÓRIA
+# HISTÓRIA
 Um militar que acorda em sua cama no quartel e está cansado de ouvir os apitos do TN resolve fugir, Ele sabe que vai precisar de alguns utensílios para ajudar ele nessa fuga, ele passara por SG e enganará TN, sabendo que tem até o fim do dia para escapar, pois no dia seguinte será sua missão.
 
-MAPA
+# MAPA
 Tera :
 alojamento -armário e campanha -
 rancho -TN com a chave da sala-
@@ -52,7 +52,7 @@ Cachorro - Maromba
 
 Podera
 
-## Referências
+# Referências
 
 Jogo: THE ROOM
       The Escapists
