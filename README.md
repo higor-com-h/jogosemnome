@@ -1,4 +1,4 @@
-# jogosemnome
+# Loucademia da Marinha
 
 Será um jogo de Escape, onde se passara em um quartel e o militar tem que fugir do local enquanto é perseguido pelo Tenente.
 O Militar ira começar em seu alojamento e vai tentar sair, mas encontrara SG que estarão de guarda e ali para o militar passar despercebido ele terá que "prestar continência" ou ele ira "pagar flexão" (-1 vidas).
